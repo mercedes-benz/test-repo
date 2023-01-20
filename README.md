@@ -1,5 +1,6 @@
 <!-- SPDX-License-Identifier: MIT -->
 # My Project
+Test repository, please do not contribute.
 
 ## Intended Usage
 
