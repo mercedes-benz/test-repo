@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: MIT -->
-# My Project
+# My Project (test-project)
 
 ## Intended Usage
 
